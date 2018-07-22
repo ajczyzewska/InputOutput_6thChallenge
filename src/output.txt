@@ -1,0 +1,2 @@
+Nazwa pliku: /Users/agnieszkawolska/eclipse-workspace/InputOutput_6thChallenge/src/test.txt
+Liczba Linii w pliku: 28
